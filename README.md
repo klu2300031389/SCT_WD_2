@@ -1,5 +1,5 @@
 # SCT_WD_2
-Task 02: Stopwatch Web Application
+Task 02 : Stopwatch Web Application
 This task involves developing an interactive and user-friendly stopwatch web application. The application should include the following key features:
 
 Start, Pause, and Reset Functionality: Users should be able to start, pause, and reset the stopwatch seamlessly.
